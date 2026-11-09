@@ -1,0 +1,4 @@
+{
+  "domains": ["apify.com", "my-new-startup-name-2026.com", "exemple.fr"],
+  "dnsFallback": true
+}

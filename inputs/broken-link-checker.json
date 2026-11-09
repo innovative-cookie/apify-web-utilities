@@ -1,0 +1,10 @@
+{
+  "startUrls": [
+    "https://crawler-test.com/links/broken_links_internal",
+    "https://crawler-test.com/links/broken_links_external"
+  ],
+  "maxPagesToCrawl": 2,
+  "maxDepth": 0,
+  "checkExternalLinks": true,
+  "reportMode": "broken"
+}

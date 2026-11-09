@@ -1,0 +1,5 @@
+{
+  "urls": ["apify.com", "github.com", "wikipedia.org"],
+  "saveImages": false,
+  "measureImages": true
+}

@@ -1,0 +1,8 @@
+{
+  "startUrls": ["https://books.toscrape.com/"],
+  "maxImagesPerPage": 25,
+  "includeSrcset": true,
+  "includeMetaImages": true,
+  "measureImages": true,
+  "downloadImages": false
+}

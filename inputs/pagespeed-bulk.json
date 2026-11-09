@@ -1,0 +1,6 @@
+{
+  "apiKey": "YOUR_GOOGLE_PSI_API_KEY",
+  "urls": ["https://apify.com", "https://web.dev"],
+  "strategies": ["mobile"],
+  "categories": ["performance"]
+}

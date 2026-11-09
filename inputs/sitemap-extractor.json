@@ -1,0 +1,5 @@
+{
+  "urls": ["apify.com", "https://www.gnu.org/sitemap.xml"],
+  "maxUrlsPerSite": 100,
+  "checkStatus": false
+}
