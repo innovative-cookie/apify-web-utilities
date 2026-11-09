@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
+# Store: https://apify.com/innovative_cookie/broken-link-checker
 # Find broken links via the Apify API (curl).
-# Usage: export APIFY_TOKEN=... ; ./examples/curl/broken-link-checker.sh
 set -euo pipefail
 : "${APIFY_TOKEN:?Set APIFY_TOKEN (see .env.example)}"
 ROOT="$(cd "$(dirname "$0")/../.." && pwd)"

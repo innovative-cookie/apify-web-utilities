@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Run innovative_cookie/sitemap-extractor. See run_actor.py for options."""
+"""Run innovative_cookie/sitemap-extractor.
+
+Store: https://apify.com/innovative_cookie/sitemap-extractor
+See run_actor.py for options.
+Related: https://dev.to/innovative_cookie/how-to-extract-every-url-from-a-websites-sitemaps-and-check-their-status-codes-python-free-462j
+"""
 import runpy
 import sys
 from pathlib import Path

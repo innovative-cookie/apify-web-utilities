@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
+# Store: https://apify.com/innovative_cookie/pagespeed-bulk
+# Related: https://dev.to/innovative_cookie/bulk-core-web-vitals-with-the-free-pagespeed-insights-api-and-a-small-hosted-option-162g
 # Bulk PageSpeed Insights via Apify (needs your Google API key).
-# Usage: export APIFY_TOKEN=... GOOGLE_PSI_API_KEY=... ; ./examples/curl/pagespeed-bulk.sh
 set -euo pipefail
 : "${APIFY_TOKEN:?Set APIFY_TOKEN (see .env.example)}"
 : "${GOOGLE_PSI_API_KEY:?Set GOOGLE_PSI_API_KEY}"

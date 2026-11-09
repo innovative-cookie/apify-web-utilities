@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Run any Innovative Cookie Actor via the Apify API.
 
+Store directory: https://apify.com/innovative_cookie
+Per-actor Store URL: https://apify.com/innovative_cookie/<name>
+
 Usage:
   export APIFY_TOKEN=...
   python examples/python/run_actor.py sitemap-extractor

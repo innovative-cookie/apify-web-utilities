@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Run innovative_cookie/logo-favicon. See run_actor.py for options."""
+"""Run innovative_cookie/logo-favicon.
+
+Store: https://apify.com/innovative_cookie/logo-favicon
+See run_actor.py for options.
+"""
 import runpy
 import sys
 from pathlib import Path

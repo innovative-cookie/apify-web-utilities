@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Run innovative_cookie/pagespeed-bulk. See run_actor.py for options."""
+"""Run innovative_cookie/pagespeed-bulk.
+
+Store: https://apify.com/innovative_cookie/pagespeed-bulk
+See run_actor.py for options.
+Related: https://dev.to/innovative_cookie/bulk-core-web-vitals-with-the-free-pagespeed-insights-api-and-a-small-hosted-option-162g
+"""
 import runpy
 import sys
 from pathlib import Path

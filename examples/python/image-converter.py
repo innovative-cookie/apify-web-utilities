@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Run innovative_cookie/image-converter. See run_actor.py for options."""
+"""Run innovative_cookie/image-converter.
+
+Store: https://apify.com/innovative_cookie/image-converter
+See run_actor.py for options.
+"""
 import runpy
 import sys
 from pathlib import Path

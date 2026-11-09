@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
+# Store: https://apify.com/innovative_cookie/<actor-name>
 # Generic curl runner: ./examples/curl/run_actor.sh <actor-name>
-# Usage: export APIFY_TOKEN=... ; ./examples/curl/run_actor.sh domain-availability
 set -euo pipefail
 : "${APIFY_TOKEN:?Set APIFY_TOKEN (see .env.example)}"
 ACTOR="${1:?actor short name required, e.g. domain-availability}"

@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
+# Store: https://apify.com/innovative_cookie/sitemap-extractor
+# Related: https://dev.to/innovative_cookie/how-to-extract-every-url-from-a-websites-sitemaps-and-check-their-status-codes-python-free-462j
 # Extract sitemap URLs via the Apify API (curl).
-# Usage: export APIFY_TOKEN=... ; ./examples/curl/sitemap-extractor.sh
 set -euo pipefail
 : "${APIFY_TOKEN:?Set APIFY_TOKEN (see .env.example)}"
 ROOT="$(cd "$(dirname "$0")/../.." && pwd)"

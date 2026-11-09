@@ -2,6 +2,9 @@
 /**
  * Run any Innovative Cookie Actor via apify-client.
  *
+ * Store directory: https://apify.com/innovative_cookie
+ * Per-actor Store URL: https://apify.com/innovative_cookie/<name>
+ *
  *   export APIFY_TOKEN=...
  *   npm install apify-client
  *   node examples/js/run_actor.mjs sitemap-extractor

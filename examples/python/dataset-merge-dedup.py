@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Run innovative_cookie/dataset-merge-dedup. See run_actor.py for options."""
+"""Run innovative_cookie/dataset-merge-dedup.
+
+Store: https://apify.com/innovative_cookie/dataset-merge-dedup
+See run_actor.py for options.
+"""
 import runpy
 import sys
 from pathlib import Path

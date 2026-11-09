@@ -17,7 +17,12 @@ Each **direct Store link** below opens the Actor page even when Store search hid
 
 All Actors use **plain HTTP** (no headless browser, no paid proxy). They respect `robots.txt` where they crawl. Actor fee is **free for now** — you only pay Apify platform usage (Free plan includes monthly credit).
 
-Related article: [Bulk Core Web Vitals with the free PageSpeed Insights API](https://dev.to/innovative_cookie/bulk-core-web-vitals-with-the-free-pagespeed-insights-api-and-a-small-hosted-option-162g).
+Related articles:
+
+- [Bulk Core Web Vitals with the free PageSpeed Insights API](https://dev.to/innovative_cookie/bulk-core-web-vitals-with-the-free-pagespeed-insights-api-and-a-small-hosted-option-162g)
+- [Extract every URL from a website's sitemaps (Python, free)](https://dev.to/innovative_cookie/how-to-extract-every-url-from-a-websites-sitemaps-and-check-their-status-codes-python-free-462j)
+
+More runners: [`examples/README.md`](examples/README.md).
 
 ## Quick start (Console)
 
